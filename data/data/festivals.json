@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Sinulog Festival",
+    "region": "Central Visayas",
+    "location": "Cebu City, Cebu",
+    "months": [1],
+    "date_notes": "Third Sunday of January",
+    "tags": ["religious", "dance", "street parade"],
+    "description": "A grand street parade honoring the Santo Niño with dancing and drums."
+  },
+  {
+    "id": 2,
+    "name": "Ati-Atihan Festival",
+    "region": "Western Visayas",
+    "location": "Kalibo, Aklan",
+    "months": [1],
+    "date_notes": "Third Sunday of January",
+    "tags": ["religious", "tribal", "dance"],
+    "description": "Street dancing with indigenous-inspired costumes honoring the Santo Niño."
+  },
+  {
+    "id": 3,
+    "name": "Dinagyang Festival",
+    "region": "Western Visayas",
+    "location": "Iloilo City, Iloilo",
+    "months": [1],
+    "date_notes": "Fourth Sunday of January",
+    "tags": ["religious", "dance", "competition"],
+    "description": "Religious and cultural celebration with choreographed dance competitions."
+  },
+  {
+    "id": 4,
+    "name": "Panagbenga (Flower Festival)",
+    "region": "Cordillera Administrative Region",
+    "location": "Baguio City, Benguet",
+    "months": [2],
+    "date_notes": "February (month-long)",
+    "tags": ["flower", "parade", "arts"],
+    "description": "Baguio's flower festival with floats, street dancing and garden exhibits."
+  },
+  {
+    "id": 5,
+    "name": "Pahiyas Festival",
+    "region": "Calabarzon",
+    "location": "Lucban, Quezon",
+    "months": [5],
+    "date_notes": "May 15",
+    "tags": ["agriculture", "decor", "food"],
+    "description": "Houses decorated with kiping (rice wafers) and produce to honor San Isidro Labrador."
+  },
+  {
+    "id": 6,
+    "name": "Kadayawan Festival",
+    "region": "Davao Region",
+    "location": "Davao City, Davao del Sur",
+    "months": [8],
+    "date_notes": "Third week of August",
+    "tags": ["harvest", "indigenous", "arts"],
+    "description": "A thanksgiving festival for bountiful harvests and indigenous culture."
+  },
+  {
+    "id": 7,
+    "name": "Kadayawan (alternate) Placeholder",
+    "region": "Davao Region",
+    "location": "Davao City",
+    "months": [8],
+    "date_notes": "August",
+    "tags": ["harvest", "culture"],
+    "description": "Placeholder entry."
+  },
+  {
+    "id": 8,
+    "name": "Higantes Festival",
+    "region": "Calabarzon",
+    "location": "Angono, Rizal",
+    "months": [11],
+    "date_notes": "November",
+    "tags": ["giant puppets", "arts", "parade"],
+    "description": "Parade of giant papier-mâché effigies originated in Angono."
+  },
+  {
+    "id": 9,
+    "name": "Sinakulo (Holy Week Pageant)",
+    "region": "National Capital Region",
+    "location": "Various towns",
+    "months": [3, 4],
+    "date_notes": "Holy Week",
+    "tags": ["religious", "theater", "tradition"],
+    "description": "Dramatic reenactment of the Passion of Christ in many towns."
+  },
+  {
+    "id": 10,
+    "name": "Moriones Festival",
+    "region": "Mimaropa",
+    "location": "Marinduque (Boac)",
+    "months": [4],
+    "date_notes": "Holy Week",
+    "tags": ["religious", "masks", "street theater"],
+    "description": "Penitential street play during Holy Week with colorful masked men."
+  },
+  {
+    "id": 11,
+    "name": "MassKara Festival",
+    "region": "Western Visayas",
+    "location": "Bacolod City, Negros Occidental",
+    "months": [10],
+    "date_notes": "Third week of October",
+    "tags": ["masks", "dance", "music"],
+    "description": "Known for smiling masks and lively street dancing."
+  },
+  {
+    "id": 12,
+    "name": "Kadayawan-like (recommend)",
+    "region": "Davao Region",
+    "location": "Nearby towns",
+    "months": [8],
+    "date_notes": "August",
+    "tags": ["harvest", "dance"],
+    "description": "Another harvest festival used for recommendation demos."
+  },
+  {
+    "id": 13,
+    "name": "Pintados-Kasadyaan",
+    "region": "Eastern Visayas",
+    "location": "Tacloban City, Leyte",
+    "months": [6],
+    "date_notes": "June",
+    "tags": ["culture", "dance", "body-paint"],
+    "description": "Festival featuring painted performers and war-dance traditions."
+  },
+  {
+    "id": 14,
+    "name": "Albay Day / Ibalong Festival",
+    "region": "Bicol Region",
+    "location": "Legazpi City, Albay",
+    "months": [8],
+    "date_notes": "August",
+    "tags": ["arts", "epic", "culture"],
+    "description": "Celebration based on the Ibalong epic with parades and performances."
+  },
+  {
+    "id": 15,
+    "name": "Kadayawan-Alternative",
+    "region": "Davao Region",
+    "location": "Davao City",
+    "months": [1],
+    "date_notes": "January (some events)",
+    "tags": ["dance", "culture"],
+    "description": "Alternative entry to diversify dataset."
+  },
+  {
+    "id": 16,
+    "name": "Lechon Festival (Balayan)",
+    "region": "Calabarzon",
+    "location": "Balayan, Batangas",
+    "months": [6],
+    "date_notes": "June",
+    "tags": ["food", "parade", "culture"],
+    "description": "Parade showcasing roasted whole pigs (lechon) decorated for the event."
+  },
+  {
+    "id": 17,
+    "name": "T’nalak Festival",
+    "region": "SOCCSKSARGEN",
+    "location": "Koronadal City, South Cotabato",
+    "months": [7],
+    "date_notes": "July",
+    "tags": ["textile", "indigenous", "culture"],
+    "description": "Celebration of the t'nalak cloth woven by the T'boli people."
+  },
+  {
+    "id": 18,
+    "name": "Ati-Atihan-Neighbor",
+    "region": "Western Visayas",
+    "location": "Nearby Town",
+    "months": [1],
+    "date_notes": "January",
+    "tags": ["tribal", "dance"],
+    "description": "A smaller Ati-Atihan style celebration used in dataset."
+  },
+  {
+    "id": 19,
+    "name": "Pasungay (Bullfighting)",
+    "region": "Western Visayas",
+    "location": "Binalbagan, Negros Occidental",
+    "months": [5],
+    "date_notes": "May",
+    "tags": ["sports", "traditional", "cattle"],
+    "description": "Traditional bullfighting in local fiesta context."
+  },
+  {
+    "id": 20,
+    "name": "Sandugo Festival",
+    "region": "Bicol Region",
+    "location": "Tagbilaran City, Bohol",
+    "months": [7],
+    "date_notes": "July",
+    "tags": ["history", "pageant", "heritage"],
+    "description": "Commemoration of a historical blood compact with parades and reenactments."
+  },
+  {
+    "id": 21,
+    "name": "Pasko sa Nayon (Town Christmas)",
+    "region": "Multiple",
+    "location": "Various towns",
+    "months": [12],
+    "date_notes": "December",
+    "tags": ["christmas", "religious", "community"],
+    "description": "Small-town Christmas fiestas with parades, lights and community events."
+  },
+  {
+    "id": 22,
+    "name": "Kadayawan-SmallTown",
+    "region": "Davao Region",
+    "location": "Provincial towns",
+    "months": [8],
+    "date_notes": "August",
+    "tags": ["harvest", "arts"],
+    "description": "Small-town harvest celebrations added to dataset."
+  }
+]
